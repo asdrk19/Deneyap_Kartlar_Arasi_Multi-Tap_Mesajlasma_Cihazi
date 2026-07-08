@@ -4,7 +4,7 @@
 
 ---
 
-## 📷 Görseller
+## Görseller
 
 > Aşağıdaki bölümlere ilgili görselleri ekleyin (resimleri repo içinde `images/` klasörüne koyup yollarını buna göre güncelleyebilirsiniz).
 
@@ -22,11 +22,11 @@
 
 ---
 
-## 🎯 Projenin Amacı
+## Projenin Amacı
 
 Bu projenin amacı, iki Deneyap Kart'ı kablosuz ağ üzerinden birbiriyle haberleştirerek basit ama işlevsel, eski tip tuşlu telefon mantığıyla çalışan bir mesajlaşma sistemi kurmaktır.
 
-## ⚙️ Nasıl Çalışır?
+## Nasıl Çalışır?
 
 ### 1. IP Adreslerinin Öğrenilmesi
 Kartların birbirini ağ üzerinde bulabilmesi için önce IP adreslerinin öğrenilmesi gerekir. Bunun için ayrı bir yardımcı kod (`ip_ogren.ino`) yazılmıştır; bu kod kartın WiFi ağına bağlanmasını sağlar ve kendi IP adresini OLED ekranda gösterir. Elde edilen IP adresleri karşılıklı olarak birbirinin koduna (`hedefIP` değişkenine) tanımlanır:
@@ -64,7 +64,7 @@ OLED ekranın alt satırlarında her zaman şu bilgiler sabit olarak gösterilir
 
 ---
 
-## 🧰 Kullanılan Malzemeler
+## Kullanılan Malzemeler
 
 | Malzeme | Açıklama |
 |---|---|
@@ -92,7 +92,7 @@ OLED ekranın alt satırlarında her zaman şu bilgiler sabit olarak gösterilir
 
 ---
 
-## 💻 Kod Yapısı
+## Kod Yapısı
 
 Proje iki ana koddan oluşur:
 
@@ -113,11 +113,11 @@ const char* hedefIP = "";
 
 ---
 
-## 🚀 Kurulum ve Kullanım
+## Kurulum ve Kullanım
 
 1. Arduino IDE'de Deneyap Kart kartı desteğini ve gerekli kütüphaneleri (`WiFi`, `WiFiUdp`, `Deneyap_OLED`, `Keypad`) kurun.
 2. `ip_ogren.ino` kodunu her iki karta ayrı ayrı yükleyip WiFi ağınıza bağlayın; OLED ekranda görünen IP adreslerini not edin.
-3. Ana kodda (`mesajlasma.ino`) her kart için:
+3. Ana kodda (`kartlar.ino`) her kart için:
    - `ssid` ve `password` değişkenlerine WiFi bilgilerinizi girin.
    - `hedefIP` değişkenine **karşı kartın** IP adresini girin.
 4. Güncellenmiş kodu ilgili kartlara yükleyin.
@@ -125,7 +125,7 @@ const char* hedefIP = "";
 
 ---
 
-## 🧩 Ekran Düzeni (OLED - 8 Satır)
+## Ekran Düzeni (OLED - 8 Satır)
 
 | Satır | İçerik |
 |---|---|
@@ -139,7 +139,7 @@ const char* hedefIP = "";
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler ve Kavramlar
+## Kullanılan Teknolojiler ve Kavramlar
 
 - Kablosuz ağ (WiFi) programlama
 - UDP protokolü ile veri iletişimi
@@ -150,7 +150,7 @@ const char* hedefIP = "";
 
 ---
 
-## 📌 Notlar
+## Notlar
 
 - `EKRAN_GENISLIK` sabiti, kullandığınız OLED fontuna göre ayarlanabilir (varsayılan: 16 karakter).
 - Zaman aşımı süreleri (`DONGU_ZAMAN_ASIMI`, `KAYIT_ZAMAN_ASIMI`, durum mesajı süreleri) koddaki sabitlerden özelleştirilebilir.
