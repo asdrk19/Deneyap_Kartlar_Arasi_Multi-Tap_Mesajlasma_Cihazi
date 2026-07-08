@@ -161,6 +161,4 @@ const char* hedefIP = "";
 
 ---
 
-## 📄 Lisans
 
-Bu proje eğitim amaçlı hazırlanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz.
