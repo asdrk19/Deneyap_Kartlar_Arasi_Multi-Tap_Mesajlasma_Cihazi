@@ -9,10 +9,10 @@
 > Aşağıdaki bölümlere ilgili görselleri ekleyin (resimleri repo içinde `images/` klasörüne koyup yollarını buna göre güncelleyebilirsiniz).
 
 ### Devre Şeması (Fritzing)
-![Fritzing Şeması](images/fritzing_semasi.png)
+<img width="1582" height="785" alt="fritzing_gösterimi" src="https://github.com/user-attachments/assets/6cd912c8-9a9e-4751-8abf-bf7ec941a160" />
 
 ### Gerçek Devre Görüntüsü
-![Devre Fotoğrafı](images/devre_fotografi.jpg)
+<img width="737" height="1218" alt="WhatsApp Image 2026-07-08 at 16 24 36 (1)" src="https://github.com/user-attachments/assets/560f992c-d218-455b-b058-9b76ca0d2f93" />
 
 ### Mesaj Gönderirken
 ![Mesaj Gönderme Ekranı](images/mesaj_gonderirken.jpg)
