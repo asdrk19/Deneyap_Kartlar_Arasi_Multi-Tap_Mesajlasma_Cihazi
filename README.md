@@ -14,11 +14,14 @@
 ### Gerçek Devre Görüntüsü
 <img width="737" height="1218" alt="WhatsApp Image 2026-07-08 at 16 24 36 (1)" src="https://github.com/user-attachments/assets/560f992c-d218-455b-b058-9b76ca0d2f93" />
 
+### Ana Ekran
+<img width="1600" height="737" alt="WhatsApp Image 2026-07-08 at 16 22 41" src="https://github.com/user-attachments/assets/0cae67ea-7e2f-4bd1-afbf-b8ec699f58d6" />
+
 ### Mesaj Gönderirken
-![Mesaj Gönderme Ekranı](images/mesaj_gonderirken.jpg)
+<img width="737" height="1600" alt="WhatsApp Image 2026-07-08 at 16 22 09" src="https://github.com/user-attachments/assets/88467808-858c-4620-9697-42faf46fcb1b" />
 
 ### Mesaj Alırken
-![Mesaj Alma Ekranı](images/mesaj_alirken.jpg)
+<img width="737" height="1600" alt="WhatsApp Image 2026-07-08 at 16 22 13" src="https://github.com/user-attachments/assets/3f5f55d1-bfda-4480-920d-173be171e052" />
 
 ---
 
