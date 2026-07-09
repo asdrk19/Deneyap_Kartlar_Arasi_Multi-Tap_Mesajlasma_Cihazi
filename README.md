@@ -1,6 +1,6 @@
-# İki Deneyap Kart Arasında WiFi Üzerinden Multi-Tap Mesajlaşma Cihazı
+# Deneyap Kartlar Arası Multi-Tap Mesajlaşma Cihazı
 
-İki adet **Deneyap Kart**'ın aynı yerel ağ (WiFi) üzerinden **UDP protokolü** ile karşılıklı haberleştiği, eski tip tuşlu telefonlardaki **multi-tap** mantığıyla metin mesajı yazılabilen, OLED ekran ve LED'lerle geri bildirim sağlayan gömülü bir haberleşme sistemi.
+Birden fazla **Deneyap Kart**'ın aynı yerel ağ (WiFi) üzerinden **UDP protokolü** ile karşılıklı haberleştiği, eski tip tuşlu telefonlardaki **multi-tap** mantığıyla metin mesajı yazılabilen, OLED ekran ve LED'lerle geri bildirim sağlayan gömülü bir haberleşme sistemi.
 
 ---
 
