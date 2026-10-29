@@ -6,8 +6,6 @@ Birden fazla **Deneyap Kart**'ın aynı yerel ağ (WiFi) üzerinden **UDP protok
 
 ## Görseller
 
-> Aşağıdaki bölümlere ilgili görselleri ekleyin (resimleri repo içinde `images/` klasörüne koyup yollarını buna göre güncelleyebilirsiniz).
-
 ### Devre Şeması (Fritzing)
 <img width="1582" height="785" alt="fritzing_gösterimi" src="https://github.com/user-attachments/assets/6cd912c8-9a9e-4751-8abf-bf7ec941a160" />
 
